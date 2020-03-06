@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eevuangee.januslb.com/sitemap.xml
